@@ -1,6 +1,9 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: diennguyendhv/tinhocvanphongtpvinh
   branch: master
+
+
 publish_mode: editorial_workflow
 media_folder: "src/images"
 public_folder: "/images"
